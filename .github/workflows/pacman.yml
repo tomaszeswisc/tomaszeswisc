@@ -1,27 +1,25 @@
-name: Generate Pacman Contribution Graph
+
+name: Pac-Man Contributions
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman contribution graph
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: SEU_USUARIO
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
