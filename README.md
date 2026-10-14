@@ -88,8 +88,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomaszeswisc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszeswisc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ## 🧠 Contribuições
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomaszeswisc&theme=tokyonight" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 ## 🎮 Pac-Man nas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/tomaszeswisc/tomaszeswisc/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </p>
 
 ---
@@ -113,13 +113,13 @@
 ## 📫 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hilton-elias//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="mailto:tomaszeswisc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/tomaszeswisc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
