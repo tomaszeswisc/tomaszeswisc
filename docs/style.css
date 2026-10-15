@@ -132,3 +132,33 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 }
 @media(min-width:1600px){main{max-width:none;margin-left:20px;margin-right:20px}}
 
+
+/* Compact the top dashboard row to the supplied reference proportions. */
+@media(min-width:1300px){
+ main{grid-template-columns:minmax(0,2.05fr) minmax(0,1fr)}
+ .intro{grid-template-columns:412px minmax(0,1fr)}
+ #tecnologias.panel,#estatisticas.panel{padding:9px}
+ #tecnologias h2,#estatisticas h2{font-size:19px;margin-bottom:7px}
+ .technologies{gap:5px}
+ .tech{min-height:78px;padding:5px 3px 4px}
+ .tech img{width:40px;height:40px;margin:0 auto 3px}
+ .stats{gap:5px}
+ .stats div{padding:3px 2px 2px 18px}
+ .stats small{font-size:8px;line-height:1.15;min-height:19px}
+ .stats b{font-size:21px;line-height:1.15}
+ .stat-icon{left:5px;top:7px;font-size:16px}
+ .stats-charts{gap:8px}
+ .stats-charts h3{font-size:10px;line-height:1.2;margin:4px 0}
+ .language{gap:4px;padding:1px 0;font-size:9px;line-height:1.2}
+ .language>span:first-child{min-width:55px}
+ .language>span:last-child{min-width:31px}
+ .language meter{height:8px}
+ #heatmap{grid-template-rows:repeat(7,7px);grid-auto-columns:7px;gap:2px;margin-top:5px}
+ .heatmap-legend{font-size:8px;margin:4px 0 0}
+ .heatmap-legend i{width:7px;height:7px}
+ #heatmap-period{font-size:7px}
+ .stats-details{margin-top:5px;font-size:9px;line-height:1.3}
+ .stats-details summary{cursor:pointer;color:var(--cyan)}
+ .stats-details .note{font-size:9px;margin:5px 0 0}
+ #refresh{margin-top:6px;padding:4px 9px;font-size:10px}
+}
