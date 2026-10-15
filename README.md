@@ -65,23 +65,23 @@
 
 ## 🚀 Projetos em destaque
 
-> Substitua pelos links reais dos seus repositórios.
+### 💰 [SENAI Finance](https://github.com/tomaszeswisc/senai-finance)
+Projeto educacional de interface web para um sistema de controle financeiro, com páginas de apresentação e login. **HTML5 e CSS3**.
 
-- 🔹 **Sistema Web / Plataforma Educacional**  
-  Aplicação voltada para gestão, ensino ou acompanhamento de atividades.  
-  **Stack:** JavaScript, Firebase, HTML, CSS
+### 🤖 [DS-Eletroeletronica — Arduino, Wokwi e PlatformIO](https://github.com/tomaszeswisc/DS-Eletroeletronica)
+Laboratório com **14 projetos catalogados** de circuitos e sistemas embarcados. Exemplos com Arduino Uno, sensores, LEDs, botões, buzzer e servomotores. **C/C++, Wokwi, VS Code e PlatformIO**.
 
-- 🔹 **Projetos com Arduino e Sensores**  
-  Repositórios com práticas de automação, ultrassônico, buzzer, LEDs, matriz MAX7219 e sistemas embarcados.  
-  **Stack:** Arduino, C/C++, PlatformIO
+### 🔐 [API Finance](https://github.com/tomaszeswisc/apiFinance)
+Backend de sistema financeiro com rotas de autenticação e transações, usando **Node.js, Express e MySQL**. *Em revisão de segurança.*
 
-- 🔹 **Pesquisa em Acelerometria e Sensores**  
-  Projeto relacionado ao uso de sensores para estimar variações em fluidos confinados.  
-  **Stack:** Arduino, Python, análise de dados
+### 📦 [API Inventory](https://github.com/tomaszeswisc/apiInventory)
+API de gerenciamento de produtos com **Node.js, Express e MySQL**. *Em revisão de segurança.*
 
-- 🔹 **Ferramentas Python / Automação**  
-  Scripts e aplicações para processamento, organização de dados e automação de tarefas.  
-  **Stack:** Python
+### 🔄 [API Troca Tudo](https://github.com/tomaszeswisc/api-troca-tudo)
+Aplicação com rotas de login e produtos utilizando **Express e MySQL**. *Em revisão de segurança.*
+
+### 🛒 [SPA Quitanda](https://github.com/tomaszeswisc/spa_quitanda)
+Projeto com API para consulta e cadastro de produtos usando **Express e MySQL**. *Em revisão de segurança.*
 
 ---
 
