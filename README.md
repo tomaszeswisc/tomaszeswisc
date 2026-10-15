@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software;Instrutor+de+Tecnologia;Mestrando+em+Engenharia+El%C3%A9trica;Arduino+%7C+IoT+%7C+Sistemas+Embarcados;Python+%7C+JavaScript+%7C+Firebase+%7C+SQL" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="#-sobre-mim">Sobre mim</a> ·
+  <a href="#%EF%B8%8F-tecnologias--ferramentas">Tecnologias</a> ·
+  <a href="#-projetos-em-destaque">Projetos</a> ·
+  <a href="#-estat%C3%ADsticas">Estatísticas</a> ·
+  <a href="#-pac-man-nas-contribui%C3%A7%C3%B5es">Pac-Man</a> ·
+  <a href="#-onde-me-encontrar">Contato</a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
