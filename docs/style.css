@@ -23,3 +23,26 @@ main>* , .intro>* , .projects>* , .catalog>*{min-width:0}
  .catalog{grid-template-columns:1fr 1fr}
  .category h3{font-size:10px}.category ul{font-size:11px}
 }
+
+/* Match the dashboard width to the full-width banner. */
+@media(min-width:761px){
+ main,nav{max-width:none;margin-left:20px;margin-right:20px}
+ body{font-size:15px}
+ .panel{padding:17px}
+ h2{font-size:21px}
+ .project h3{font-size:16px}
+ .project p{font-size:13px;min-height:58px}
+ .project small,.tech span,.tech small,.language,.contact small{font-size:12px}
+ .note{font-size:11px}
+ .stats small{font-size:11px}
+ .category h3{font-size:12px}
+ .category ul{font-size:14px}
+ .tech b{width:58px;height:58px;font-size:29px}
+}
+@media(min-width:1600px){
+ main,nav{margin-left:20px;margin-right:20px}
+ .intro{grid-template-columns:1fr 1.45fr}
+ .project{padding:15px}
+ .project p{font-size:14px}
+ .tech span,.tech small,.language,.contact small{font-size:13px}
+}
