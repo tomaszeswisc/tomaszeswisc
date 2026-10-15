@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/tomaszeswisc-emblema.jpg" alt="TOMASZESWISC — emblema neon de cérebro cibernético" width="560" />
+</p>
+
 <h1 align="center">Olá, eu sou Hilton Elias 👋</h1>
 
 <p align="center">
