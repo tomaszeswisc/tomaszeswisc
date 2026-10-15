@@ -64,3 +64,7 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 @media(max-width:760px){.technologies{grid-template-columns:repeat(4,minmax(0,1fr))}#sobre p{max-width:76%;font-size:13px}.stats-charts{grid-template-columns:1fr 1fr}.stats div{padding-left:25px}.stat-icon{left:8px;font-size:22px}}
 @media(max-width:420px){.technologies{grid-template-columns:repeat(3,minmax(0,1fr))}.stats-charts{grid-template-columns:1fr}.contribution-chart{max-width:none}#sobre p{max-width:86%}}
 @media(min-width:761px) and (max-width:1100px){.technologies{grid-template-columns:repeat(3,minmax(0,1fr))}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.tech{min-width:0}}
+
+#sobre.about-template{padding:0;border:0;background:transparent;box-shadow:none;align-self:start;border-radius:0;overflow:hidden;isolation:auto}
+#sobre.about-template:after{display:none}
+.about-template-image{display:block;width:100%;height:auto;max-width:100%;object-fit:contain}
