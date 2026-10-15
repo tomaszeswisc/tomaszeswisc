@@ -1,0 +1,241 @@
+{
+  "fetched_at": "2026-10-15T11:21:50.825307+00:00",
+  "user": {
+    "public_repos": 33,
+    "followers": 25,
+    "following": 1
+  },
+  "repositories": [
+    {
+      "name": "api-troca-tudo",
+      "html_url": "https://github.com/tomaszeswisc/api-troca-tudo",
+      "language": "JavaScript",
+      "stargazers_count": 2,
+      "forks_count": 0
+    },
+    {
+      "name": "apiFinance",
+      "html_url": "https://github.com/tomaszeswisc/apiFinance",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "apiInventory",
+      "html_url": "https://github.com/tomaszeswisc/apiInventory",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "atividades-js",
+      "html_url": "https://github.com/tomaszeswisc/atividades-js",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "atividade_variaveis_compostas",
+      "html_url": "https://github.com/tomaszeswisc/atividade_variaveis_compostas",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    {
+      "name": "aula-de-git",
+      "html_url": "https://github.com/tomaszeswisc/aula-de-git",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "av-front",
+      "html_url": "https://github.com/tomaszeswisc/av-front",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "banco_de_dados",
+      "html_url": "https://github.com/tomaszeswisc/banco_de_dados",
+      "language": null,
+      "stargazers_count": 2,
+      "forks_count": 0
+    },
+    {
+      "name": "dados-av",
+      "html_url": "https://github.com/tomaszeswisc/dados-av",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "desenvolvimento_de_APIs",
+      "html_url": "https://github.com/tomaszeswisc/desenvolvimento_de_APIs",
+      "language": null,
+      "stargazers_count": 4,
+      "forks_count": 0
+    },
+    {
+      "name": "DS-Eletroeletronica",
+      "html_url": "https://github.com/tomaszeswisc/DS-Eletroeletronica",
+      "language": "C++",
+      "stargazers_count": 2,
+      "forks_count": 1
+    },
+    {
+      "name": "DS-Logicadeprogramacao",
+      "html_url": "https://github.com/tomaszeswisc/DS-Logicadeprogramacao",
+      "language": null,
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    {
+      "name": "fotografiaGelada",
+      "html_url": "https://github.com/tomaszeswisc/fotografiaGelada",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "FrontEnd",
+      "html_url": "https://github.com/tomaszeswisc/FrontEnd",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "ignore",
+      "html_url": "https://github.com/tomaszeswisc/ignore",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "IoT_Internet_das_Coisas",
+      "html_url": "https://github.com/tomaszeswisc/IoT_Internet_das_Coisas",
+      "language": null,
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    {
+      "name": "javascript",
+      "html_url": "https://github.com/tomaszeswisc/javascript",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Modelagem-de-Sistemas",
+      "html_url": "https://github.com/tomaszeswisc/Modelagem-de-Sistemas",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "oficinasaep",
+      "html_url": "https://github.com/tomaszeswisc/oficinasaep",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "OPN300",
+      "html_url": "https://github.com/tomaszeswisc/OPN300",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "pagina-manutencao",
+      "html_url": "https://github.com/tomaszeswisc/pagina-manutencao",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 21
+    },
+    {
+      "name": "profile",
+      "html_url": "https://github.com/tomaszeswisc/profile",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "revisao3010",
+      "html_url": "https://github.com/tomaszeswisc/revisao3010",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "senai-finance",
+      "html_url": "https://github.com/tomaszeswisc/senai-finance",
+      "language": "HTML",
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    {
+      "name": "site",
+      "html_url": "https://github.com/tomaszeswisc/site",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "softwares",
+      "html_url": "https://github.com/tomaszeswisc/softwares",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "spa_quitanda",
+      "html_url": "https://github.com/tomaszeswisc/spa_quitanda",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "spa_revisao",
+      "html_url": "https://github.com/tomaszeswisc/spa_revisao",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "tecinfb",
+      "html_url": "https://github.com/tomaszeswisc/tecinfb",
+      "language": "HTML",
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    {
+      "name": "tomaszeswisc",
+      "html_url": "https://github.com/tomaszeswisc/tomaszeswisc",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "troca-tudo",
+      "html_url": "https://github.com/tomaszeswisc/troca-tudo",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "vendas",
+      "html_url": "https://github.com/tomaszeswisc/vendas",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "vendaslivres",
+      "html_url": "https://github.com/tomaszeswisc/vendaslivres",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0
+    }
+  ]
+}
