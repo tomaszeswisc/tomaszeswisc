@@ -124,7 +124,7 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 
 
 /* Keep the two dashboard columns flowing independently, as in the reference. */
-@media(min-width:1300px){
+@media(min-width:1200px){
  main{grid-template-columns:minmax(0,1.8fr) minmax(300px,1fr);gap:12px;align-items:start}
  main>.primary,main>aside{display:flex;flex-direction:column;gap:12px;min-width:0}
  .intro{grid-template-columns:minmax(360px,412px) minmax(0,1fr);gap:12px}
@@ -134,7 +134,7 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 
 
 /* Compact the top dashboard row to the supplied reference proportions. */
-@media(min-width:1300px){
+@media(min-width:1200px){
  main{grid-template-columns:minmax(0,2.05fr) minmax(0,1fr)}
  .intro{grid-template-columns:412px minmax(0,1fr)}
  #tecnologias.panel,#estatisticas.panel{padding:9px}
@@ -163,7 +163,7 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
  #refresh{margin-top:6px;padding:4px 9px;font-size:10px}
 }
 
-@media(min-width:1300px){
+@media(min-width:1200px){
  #estatisticas{position:relative}
  .stats-heading{position:relative;display:flex;align-items:start;justify-content:space-between}
  .stats-heading h2{margin-bottom:7px}
