@@ -162,3 +162,16 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
  .stats-details .note{font-size:9px;margin:5px 0 0}
  #refresh{margin-top:6px;padding:4px 9px;font-size:10px}
 }
+
+@media(min-width:1300px){
+ #estatisticas{position:relative}
+ .stats-heading{position:relative;display:flex;align-items:start;justify-content:space-between}
+ .stats-heading h2{margin-bottom:7px}
+ .stats-details{position:absolute;z-index:4;right:0;top:-3px;font-size:10px;line-height:1.4}
+ .stats-details summary{cursor:pointer;list-style:none;width:22px;height:22px;border:1px solid #07557a;border-radius:5px;color:var(--cyan);text-align:center;font-size:17px;line-height:18px;background:#031522}
+ .stats-details summary::-webkit-details-marker{display:none}
+ .stats-details[open]{right:0;top:22px;width:min(280px,80%);padding:9px;border:1px solid #0b6795;border-radius:6px;background:#031522;box-shadow:0 8px 24px #000b;}
+ .stats-details[open] summary{margin-left:auto;margin-top:-4px}
+ #heatmap{grid-template-rows:repeat(7,6px);grid-auto-columns:6px;gap:2px;margin-top:3px}
+ .heatmap-legend{margin-top:2px}
+}
