@@ -1,4 +1,4 @@
-<p align="center"><a href="https://tomaszeswisc.github.io/tomaszeswisc/"><img src="assets/dashboard-banner.svg" alt="TOMASZESWISC — banner decorativo de tecnologia, eletrônica e programação" /></a></p>
+<p align="center"><a href="https://tomaszeswisc.github.io/tomaszeswisc/"><img src="assets/dashboard-banner.png" alt="TOMASZESWISC — banner decorativo de tecnologia, eletrônica e programação" /></a></p>
 
 <p align="center"><b>⚡ <a href="https://tomaszeswisc.github.io/tomaszeswisc/">Explorar o dashboard interativo</a></b> · <a href="https://github.com/tomaszeswisc/DS-Eletroeletronica#-catálogo-de-projetos">14 projetos Arduino</a></p>
 
