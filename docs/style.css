@@ -68,3 +68,17 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 #sobre.about-template{padding:0;border:0;background:transparent;box-shadow:none;align-self:start;border-radius:0;overflow:hidden;isolation:auto}
 #sobre.about-template:after{display:none}
 .about-template-image{display:block;width:100%;height:auto;max-width:100%;object-fit:contain}
+
+/* Editable recreation of the supplied About card: live text, CSS layout and vector artwork. */
+#sobre.about-editable{position:relative;min-height:210px;padding:13px 12px 10px;border:1px solid #0873a8;border-radius:9px;background:radial-gradient(ellipse at 83% 52%,#00336866 0%,#00101b 53%),linear-gradient(125deg,#041725,#000b15);box-shadow:inset 0 0 18px #007fff16;overflow:hidden;isolation:isolate}
+#sobre.about-editable:before{content:'';position:absolute;inset:4px;border:1px solid #0877b533;border-radius:6px;pointer-events:none}
+#sobre.about-editable:after{content:'';position:absolute;z-index:-1;inset:0;background:linear-gradient(90deg,#03121efc 0%,#03121eeb 48%,#03121e30 81%,transparent 100%);pointer-events:none}
+#sobre.about-editable h2{position:relative;z-index:1;margin:0 0 7px;font-size:16px;line-height:1.35;font-weight:700;text-shadow:0 0 8px #57aaff66}
+#sobre .about-wave{font-size:17px;margin-right:4px}
+#sobre .about-copy{position:relative;z-index:1;width:75%;font-size:11px;line-height:1.34;color:#e5edf7}
+#sobre .about-copy p{margin:0 0 7px}
+#sobre .about-illustration{position:absolute;z-index:-2;width:55%;height:100%;right:0;bottom:0;object-fit:contain;object-position:right bottom;opacity:.95}
+@media(min-width:1400px){#sobre.about-editable{min-height:210px}#sobre .about-copy{font-size:12px;line-height:1.38;width:75%}}
+@media(max-width:1100px){#sobre.about-editable{min-height:220px}#sobre .about-copy{width:76%;font-size:12px}#sobre .about-illustration{width:55%}}
+@media(max-width:760px){#sobre.about-editable{min-height:210px}#sobre .about-copy{width:73%;font-size:11px}}
+@media(max-width:420px){#sobre.about-editable{min-height:235px}#sobre .about-copy{width:78%;font-size:11px}#sobre .about-illustration{width:59%;opacity:.75}#sobre.about-editable:after{background:linear-gradient(90deg,#03121eff 0%,#03121ef5 56%,#03121e60 100%)}}
