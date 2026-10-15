@@ -4,3 +4,22 @@
 .pacman.arcade{display:block;min-height:0;aspect-ratio:2.6;object-fit:contain;box-shadow:0 0 14px #007bff22}.contributions-original{margin-top:12px;font-size:11px;color:#9fb2c5}.contributions-original summary{cursor:pointer;color:#17c9ff;padding:5px 0}.contributions-original .original{display:block;margin-top:10px;min-height:0}
 
 .reference-hero{width:100%;background:#000b16;border-bottom:1px solid #0874a7}.reference-hero img{display:block;width:100%;height:auto;object-fit:contain}
+
+/* Keep every dashboard region fluid, including after a cached stylesheet. */
+.reference-hero{width:100%;max-width:none;overflow:hidden}.reference-hero img{width:100%;max-width:100%;height:auto}
+main>* , .intro>* , .projects>* , .catalog>*{min-width:0}
+.contact span{min-width:0;overflow-wrap:anywhere}
+@media(max-width:760px){
+ nav{position:relative;top:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible}
+ nav a{white-space:normal;text-align:center;font-size:12px}
+ nav a:last-child{grid-column:1/-1}
+ .reference-hero{margin:0}
+ .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .projects{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:420px){
+ .projects{grid-template-columns:1fr}.project p{min-height:0}
+ .technologies{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .catalog{grid-template-columns:1fr 1fr}
+ .category h3{font-size:10px}.category ul{font-size:11px}
+}
