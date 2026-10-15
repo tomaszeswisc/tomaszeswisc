@@ -82,3 +82,12 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 @media(max-width:1100px){#sobre.about-editable{min-height:220px}#sobre .about-copy{width:76%;font-size:12px}#sobre .about-illustration{width:55%}}
 @media(max-width:760px){#sobre.about-editable{min-height:210px}#sobre .about-copy{width:73%;font-size:11px}}
 @media(max-width:420px){#sobre.about-editable{min-height:235px}#sobre .about-copy{width:78%;font-size:11px}#sobre .about-illustration{width:59%;opacity:.75}#sobre.about-editable:after{background:linear-gradient(90deg,#03121eff 0%,#03121ef5 56%,#03121e60 100%)}}
+
+/* Keep the editable About card at the reference proportions. */
+#sobre.about-editable{height:220px;min-height:220px;max-height:220px;padding:12px;}
+#sobre.about-editable .about-copy{width:69%;}
+#sobre.about-editable .about-copy p{max-width:none;width:100%;font-size:11px;line-height:1.34;margin:0 0 7px;}
+#sobre.about-editable .about-illustration{height:100%;width:54%;}
+@media(max-width:1100px){#sobre.about-editable{height:220px;min-height:220px;max-height:220px}#sobre.about-editable .about-copy{width:69%}#sobre.about-editable .about-copy p{font-size:11px}}
+@media(max-width:760px){#sobre.about-editable{height:220px;min-height:220px;max-height:220px}#sobre.about-editable .about-copy{width:69%}}
+@media(max-width:420px){#sobre.about-editable{height:235px;min-height:235px;max-height:235px}#sobre.about-editable .about-copy{width:77%}#sobre.about-editable .about-copy p{font-size:11px}}
