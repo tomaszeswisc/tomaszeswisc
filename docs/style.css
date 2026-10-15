@@ -91,3 +91,28 @@ nav a.active .nav-icon{filter:drop-shadow(0 0 4px #62dbff)}
 @media(max-width:1100px){#sobre.about-editable{height:220px;min-height:220px;max-height:220px}#sobre.about-editable .about-copy{width:69%}#sobre.about-editable .about-copy p{font-size:11px}}
 @media(max-width:760px){#sobre.about-editable{height:220px;min-height:220px;max-height:220px}#sobre.about-editable .about-copy{width:69%}}
 @media(max-width:420px){#sobre.about-editable{height:235px;min-height:235px;max-height:235px}#sobre.about-editable .about-copy{width:77%}#sobre.about-editable .about-copy p{font-size:11px}}
+
+/* Restore the supplied artwork at its original 412×220 proportions while keeping copy live and editable. */
+#sobre.about-editable{box-sizing:border-box;width:412px;height:220px;min-height:220px;max-height:220px;padding:11px 12px;background:#00101a url('about-reference.png') no-repeat left top;background-size:412px 220px;border:0;border-radius:0;box-shadow:none;isolation:isolate}
+#sobre.about-editable:before{display:none}
+#sobre.about-editable:after{display:none}
+#sobre.about-editable h2{z-index:2;margin:0 0 7px;font-size:16px}
+#sobre.about-editable .about-copy{position:relative;z-index:2;width:68%;font-size:11px;line-height:1.34}
+#sobre.about-editable .about-copy p{width:100%;max-width:none;margin:0 0 7px;font-size:11px;line-height:1.34}
+#sobre .about-original-art{position:absolute;z-index:0;inset:0;width:100%;height:100%;opacity:0;object-fit:cover}
+#sobre.about-editable{background-image:linear-gradient(90deg,#00101a 0%,#00101a 66%,#00101a00 80%),url('about-reference.png');background-size:100% 100%,412px 220px}
+@media(max-width:1100px){#sobre.about-editable{width:100%;max-width:412px;height:220px;min-height:220px;max-height:220px;background-size:100% 100%,412px 220px}}
+@media(max-width:760px){#sobre.about-editable{width:100%;max-width:412px;height:auto;aspect-ratio:412/220;min-height:0;max-height:none;padding:2.7% 3%;background-size:100% 100%}}
+@media(max-width:420px){#sobre.about-editable .about-copy{width:68%}#sobre.about-editable .about-copy p{font-size:clamp(9px,2.65vw,11px);line-height:1.3}#sobre.about-editable h2{font-size:clamp(14px,3.9vw,16px)}}
+
+/* Preserve the uploaded 412×220 artwork at native proportions on desktop. */
+#sobre.about-editable{width:412px;height:220px;min-width:412px;min-height:220px;max-width:412px;max-height:220px;flex:none;position:relative;padding:12px;background:radial-gradient(ellipse at 85% 68%,#00336655,transparent 38%),linear-gradient(135deg,#00111d,#000b16);border:1px solid #0877b5;border-radius:9px;box-shadow:inset 0 0 18px #087cff18;overflow:hidden}
+#sobre.about-editable:before{display:block;inset:4px;border-color:#0787d533}
+#sobre.about-editable:after{display:block;z-index:1;background:linear-gradient(90deg,#00111dfc 0%,#00111df2 54%,#00111dba 68%,transparent 83%)}
+#sobre.about-editable h2{font-size:16px;margin-bottom:7px;z-index:2}
+#sobre.about-editable .about-copy{z-index:2;width:67%;font-size:11px;line-height:1.34}
+#sobre.about-editable .about-copy p{max-width:none;width:100%;font-size:11px;line-height:1.34;margin:0 0 7px}
+#sobre .about-original-art{z-index:0;position:absolute;top:0;right:0;left:auto;inset:auto 0 0 auto;width:412px;height:220px;max-width:none;opacity:1;object-fit:fill;clip-path:inset(0 0 0 56%)}
+@media(max-width:1100px){#sobre.about-editable{width:412px;min-width:412px;max-width:412px;height:220px;min-height:220px;max-height:220px;padding:12px}#sobre.about-editable .about-copy{width:67%}#sobre .about-original-art{width:412px;height:220px}}
+@media(max-width:760px){#sobre.about-editable{width:min(100%,412px);min-width:0;max-width:412px;height:auto;min-height:0;max-height:none;aspect-ratio:412/220;padding:3%}#sobre .about-original-art{width:100%;height:100%}}
+@media(max-width:420px){#sobre.about-editable .about-copy{width:67%}#sobre.about-editable .about-copy p{font-size:clamp(9px,2.7vw,11px);line-height:1.3}#sobre.about-editable h2{font-size:clamp(14px,3.9vw,16px)}}
