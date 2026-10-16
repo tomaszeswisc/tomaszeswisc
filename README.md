@@ -30,7 +30,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🚀 CEO da **HE Technology Solutions**
-- 👨‍🏫 Instrutor de cursos técnicos nas áreas de **Informática, Desenvolvimento de Sistemas e Excel**
+- 👨‍🏫 Instrutor de cursos técnicos nas áreas de **Informática para Internet, Desenvolvimento de Sistemas e Desenvolvimento Mobile**
 - 🎓 **Mestrando em Engenharia Elétrica**
 - 🤖 Atuação em **automação, robótica educacional, impressão 3D e eletrônica**
 - 💻 Interesse em **desenvolvimento full stack, sistemas embarcados, IoT e tecnologia educacional**
