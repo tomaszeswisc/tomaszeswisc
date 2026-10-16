@@ -42,13 +42,16 @@
 
 ### 💻 Linguagens
 
-**Marcação e estilos**
-
-  <p>
+**Marcação**
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+**Estilo**
+<p>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  </p>
+</p>
   
 **Programação**
 
