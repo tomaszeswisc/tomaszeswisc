@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Wokwi-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bambu_Lab-00A6A6?style=for-the-badge&logo=bambulab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bambu_Studio-00A6A6?style=for-the-badge&logo=bambulab&logoColor=white" />
   <img src="https://img.shields.io/badge/PrusaSlicer-F57900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OrcaSlicer-00AEEF?style=for-the-badge" />
 </p>
