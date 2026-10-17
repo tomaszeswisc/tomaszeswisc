@@ -109,7 +109,10 @@
 
 ### 📊 Produtividade
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIgMi41IDIyaDQuNGwxLjctMy44aDYuOGwxLjcgMy44aDQuNEwxMiAyWm0wIDcuMiAyLjIgNWgtNC40bDIuMi01WiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-185ABD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSA1aDRsMS4zIDkuMkw5LjIgNWgzLjRsMi40IDkuMkwxNi40IDVoNGwtMi43IDE0aC00LjFsLTIuNy04LjdMOC4yIDE5SDQuMUwxLjUgNVoiLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-C43E1C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgMmgxMWEyIDIgMCAwIDEgMiAydjJoMmEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJoLTJ2MWExIDEgMCAwIDEtMSAxSDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJabTIuNCA0LjJ2MTEuNmgyLjR2LTMuN2gxLjRjMi41IDAgNC4xLTEuNCA0LjEtMy45cy0xLjYtNC00LjEtNEg2LjRabTIuNCAyLjFoMS4yYzEuMyAwIDIgLjcgMiAxLjlzLS43IDEuOC0yIDEuOEg4LjhWOC4zWk0xNyA4djkuOGgyVjhoLTJaIi8%2BPC9zdmc%2B" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgNC40IDEzLjggMnYyMEwyIDE5LjZWNC40Wm00LjIgMyAyIDQuMi0yIDQuMmgyLjRsMS0yLjUgMSAyLjVIMTNsLTItNC4yIDItNC4yaC0yLjRsLTEgMi41LTEtMi41SDYuMlpNMTUgNWg2djNoLTN2MmgzdjNoLTN2MmgzdjNoLTZWNVoiLz48L3N2Zz4%3D" />
 </p>
 
 ---
